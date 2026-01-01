@@ -13,14 +13,14 @@
 2- Combining knowledge of Network and Software engineering.
 3- Potential collaboration to aid in completing the project and perfecting it.
 
-This will also encourage me to be consistent with my GitHub Page, spread knowledge and fill it with healthy efforts بإذن الله تعالى.
+This will also encourage me to be consistent with my GitHub Page and fill it with healthy efforts بإذن الله تعالى.  
 
-### Index of Books | فهرس الكتب
-Under each catergory, there should be branches for:
-1- Mutun (Text) of the Hadith/ Hadith Sciences Collections
-2- Shuruh (Explanations) of said texts.
+### Index of Books | فهرس الكتب  
+Under each catergory, there should be branches for:  
+1- Mutun (Text) of the Hadith/ Hadith Sciences Collections 
+2- Shuruh (Explanations) of said texts.  
 
-### Branch 1: Hadith Collections | جوامع الاحاديث 
+### Branch 1: Hadith Collections | جوامع الاحاديث   
 Masanid | مسانيد
 Sunan | سنن
 Sahih | صحيح
