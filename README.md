@@ -1,7 +1,7 @@
 # Maktabah As-Sanad
 
 بسم الله الرحمن الرحيم,
-قصد انشاء هذه الجهد لجمع كتب, مؤلفات ورائل التي تتعلق بالحديث وعلومه
+قصد انشاء هذه الجهد لجمع كتب, مؤلفات ورسائل التي تتعلق بالحديث وعلومه
 ### The intention/s of opening this project is:  
 
 1- To improve my Network skills  
@@ -22,6 +22,7 @@ Under each catergory, there should be branches for:
 
 ### Branch 1: Hadith Collections | جوامع الاحاديث   
 Masanid | مسانيد  
+ a- Mutun
 Sunan | سنن
 Sahih | صحيح
 
